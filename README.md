@@ -1,4 +1,4 @@
-If you want to skip the coding part, go to my [blog](https://medium.com/@jambs/basic-analysis-of-data-129700faaf60)
+#If you want to skip the coding, read my [blog](https://medium.com/@jambs/basic-analysis-of-data-129700faaf60)
 
 
 Objectives:
