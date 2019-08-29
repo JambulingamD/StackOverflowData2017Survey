@@ -1,7 +1,7 @@
 # CRISP-DM process for data analysis
 
 ## Dataset
-To understand the CRISP-DM proces, I need a dataset. So, I am going to pick the "[Stack Overflow Data - 2017 Survey](https://insights.stackoverflow.com/survey)".
+CRISP-DM process is a methodology to analyse data. For that, I need a dataset. So, I am going to pick the "[Stack Overflow Data - 2017 Survey](https://insights.stackoverflow.com/survey)".
 
 ## Objectives:
 I am going to analyze the data to understand the following:
