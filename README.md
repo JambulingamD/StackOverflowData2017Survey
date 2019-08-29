@@ -27,4 +27,4 @@ Data source is from Stack Overflow.
 You can go [here](https://github.com/JambulingamD/StackOverflowData2017Survey/blob/master/StackOverflowData2017Survey.ipynb) to look at the code.
 
 ## Blog
-You can go [here](https://medium.com/@jambs/basic-analysis-of-data-129700faaf60) to look the results
+You can go [here](https://medium.com/@jambs/basic-analysis-of-data-129700faaf60) if you are not interested in the coding piece.
